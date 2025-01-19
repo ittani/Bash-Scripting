@@ -1,0 +1,4 @@
+Error Summary Report
+====================
+CATT_JBOSS.log: 522 errors
+EXECUTOR_TAAS1.log: 42 errors
