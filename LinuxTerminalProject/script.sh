@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Define log file paths
+# Feel free to add your path
 path1="/Users/itannimaemo/OneDrive - Andile Solutions (Pty) Ltd/Bash-scripting/LinuxTerminalProject/CATT_JBOSS.log"
 path2="/Users/itannimaemo/OneDrive - Andile Solutions (Pty) Ltd/Bash-scripting/LinuxTerminalProject/EXECUTOR_TAAS1.log"
 
