@@ -22,6 +22,9 @@ for log_file in "$path1" "$path2"; do
     echo "====================================="
     echo "Analyzing errors in: $log_file"
     echo "====================================="
+    echo "=========== Ittani Maemo ============"
+		
+    printf "\n"
 
     # Count total number of errors
     total_errors=$(grep -c "ERROR" "$log_file")
